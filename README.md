@@ -20,8 +20,8 @@ To use this project, simply open the index.htm file in your web browser
 
 ## Folder structure 
 - style/    # CSS stylesheets
-- js/  # Javascript file
--index.html    #main HTML file
+- js/     # Javascript file
+- index.html    #main HTML file
 
 * კონკრეტულ პროექტში ფოტოები და ფონტები ჩასმულია ლინკების საშუალებით, ამიტომ assets ფოლდერი არ არის.
   
