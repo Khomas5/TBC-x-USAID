@@ -417,6 +417,7 @@ label span {
 .faq {
   background-color: var(--tertiary-color);
   padding: 8rem 0;
+  max-width: 100%;
 }
 
 .faq .container {
